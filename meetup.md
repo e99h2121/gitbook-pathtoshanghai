@@ -39,7 +39,7 @@ https://www.ted.com/tedx/events/14932
 ### Barcamp 2015 Spring Shanghai
 Visited Barcamp.
 
-What is Barcamp?? 
+What is Barcamp??
 
 - [Barcamp Spring 2015 ](http://www.techyizu.org/events/barcamp-spring-2015/)
 
@@ -100,8 +100,8 @@ He lectured to how to make a paper plane.
 
 - [Good in a room](http://goodinaroom.com/)
 
---- 
-### Docker meetup 
+---
+### Docker meetup
 
 ##### Date, Place 2014.08.24 @VMWare Shanghai Office(杨浦区淞沪路333号创智天地)
 
@@ -120,7 +120,7 @@ A session about how they use Docker in a distributed storage system.
 4.Docker at devo.ps; Ronan Berder, Founder & CEO at devo.ps, Founder at Wiredcraft.
 
 We can find the presenter's name on Github or linkedin etc.
-Slides or contents are available on below. 
+Slides or contents are available on below.
 
 - 七牛
 - http://www.qiniu.com/
@@ -159,7 +159,7 @@ Slides or contents are available on below.
 
 Here is several link that you can study at first:
 
-- https://www.docker.io/community/ 
+- https://www.docker.io/community/
 - https://github.com/dotcloud/docker
 
 And you can find several [slides](http://www.slideshare.net/search/slideshow?searchfrom=header&q=Docker).
@@ -173,7 +173,7 @@ Particularly impressive point for me was below since we had been bothered these 
 By these we can eliminate vendor lock-in.
 Weak point is :
 
-- Its Docker project itself seems still under development phase. 
+- Its Docker project itself seems still under development phase.
 - We need to try by our module. To install our service on the Docker.
 - Not only this 'Docker', we can find several kind of Environment-level containers. We should compare it.
 

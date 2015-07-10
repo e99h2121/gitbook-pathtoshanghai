@@ -9,7 +9,7 @@ You can register your information for safety, and can get some useful informatio
 - [上海森茂診療所](http://www.senmaoclinic.jp/file/exam_reserve_form.html)
 
 
-- News, Weather
+## News, Weather
 
 http://www.shanghaidaily.com/
 
@@ -18,7 +18,7 @@ http://shanghaiist.com/
 http://shanghai.tianqi.com/
 
 
-- Events
+## Events
 
 http://shvoice.com/
 
@@ -33,12 +33,17 @@ http://www.shanghaiexpat.com/
 http://www.smartshanghai.com/
 
 
-- 百度
+## 百度
 
 http://www.baidu.com/
 
 
-- Meetup
+## Classified
+
+http://sha.mixb.net/
+
+
+## Meetup
 
 http://www.meetup.com/cities/cn/shanghai/
 
@@ -46,8 +51,10 @@ http://boostagile.com/
 
 http://www.huodongxing.com/
 
+http://shanghai.baixing.com/
 
-- For entrepreneur
+
+## For entrepreneur
 
 http://www.up.co/communities/china/shanghai/startup-weekend/events
 
@@ -64,6 +71,6 @@ http://chinaccelerator.com/
 http://www.entrepnr.asia/
 
 
-- National Holiday
+## National Holiday
 
 http://calendar.yamanoha.com/calendar/china_calendar.html

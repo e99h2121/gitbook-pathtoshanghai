@@ -13,3 +13,10 @@
 
 - [Uber](https://www.uber.com/cities/shanghai)
 
+- [Pleco](https://www.pleco.com/)
+
+- [Air Quality](http://aqicn.org/city/shanghai/)
+
+- Youku, IQIYI Video
+
+
