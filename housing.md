@@ -20,6 +20,10 @@ Most busiest shopping area.
 
 Shopping area. And there are younger people.
 
+- HongKou area.
+
+There is LuXun park. Old Japanese concession area.
+
 - PuDong new district
 
 Newly developed economic area. There is 东方明珠.
