@@ -17,7 +17,8 @@ Every 1st and 3rd Saturday.
 
 - [复兴广场](http://www.shanghainavi.com/miru/423/)
 
-New area which is renovated the southern area of XinTianDi. 
+New area which is renovated the southern area of XinTianDi.
+This area was closer with [DongTai Lu antique market](http://www.tripadvisor.jp/Attraction_Review-g308272-d548472-Reviews-Dongtai_Road_Antique_Market-Shanghai.html).
 
 - [思南公馆](http://www.shanghainavi.com/miru/264/)
 
