@@ -17,7 +17,7 @@ Every 1st and 3rd Saturday.
 
 - [复兴广场](http://www.shanghainavi.com/miru/423/)
 
-New area which is renobated the southern area of XinTianDi. 
+New area which is renovated the southern area of XinTianDi. 
 
 - [思南公馆](http://www.shanghainavi.com/miru/264/)
 
