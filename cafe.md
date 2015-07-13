@@ -8,11 +8,15 @@ We can find English books that we can know about SH. There are coffee and ice cr
 
 - [ZOO coffee](http://www.zoocoffee.com/main.jsp) ★★★★
 
-I heard it is came from South Korea. 
+I heard it is came from South Korea.
 
 - [Cafe Kacao](http://www.timeoutshanghai.com/venue/Restaurants__Cafes-Cafes/15353/Caf%C3%A9-Kacao.html)(思南路) ★★★★
 
-This is also came from South Korea. 
+This is also came from South Korea.
+
+- [StayReal Cafe](http://4travel.jp/overseas/area/asia/china-shanghai_shi/shanghai/restaurant/10456516/tips/10889858/) ★★★★
+
+Come from Taiwan.
 
 - [Kafelaku Coffee](http://www.timeoutshanghai.com/venue/Restaurants__Cafes-Cafes__Teahouses/6493/Kafelaku-Coffee.html) ★★★
 
@@ -20,7 +24,7 @@ I heard it is came from Indonesia. Good price.
 
 - [Coffee beans and Tea leaf](http://www.coffeebean.com/) ★★★
 
-From US. 
+From US.
 
 - Starbacks coffee ★★☆
 

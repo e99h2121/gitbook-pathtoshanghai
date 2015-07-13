@@ -4,29 +4,29 @@ Hope you can find your best.
 
 Shanghai are basically composed by
 
-- French concession area
+- [French concession area](https://en.wikipedia.org/wiki/Shanghai_French_Concession)
 
 Many Westerner are in here. And the mood of old Shanghai.
 
-- HongQiao-GuBei area
+- [HongQiao-GuBei area](http://www.timeoutshanghai.com/area-guide/hongqiao-and-gubei.html)
 
 Many Japanese are in here. There are a lot of Izakaya, Ramen restaurant.
 
-- NanJing Lu Shopping area
+- [NanJing Lu Shopping area](https://en.wikipedia.org/wiki/Nanjing_Road)
 
-Most busiest shopping area. 
+Most busiest shopping area.
 
-- XuJiaHui Shopping area
+- [XuJiaHui Shopping area](https://en.wikipedia.org/wiki/Xujiahui)
 
-Shopping area. And there are younger people.
+Shopping area. And there are younger people. There is also IKEA.
 
-- HongKou area.
+- [HongKou area](http://www.tripadvisor.com/Guide-g308272-i20350-Shanghai.html).
 
 There is LuXun park. Old Japanese concession area.
 
-- PuDong new district
+- [PuDong new district](http://www.tripadvisor.jp/Attraction_Review-g308272-d555055-Reviews-Pudong_New_Area-Shanghai.html)
 
-Newly developed economic area. There is 东方明珠.
+Newly developed economic area. There is 东方明珠. 2015, Disney store has opened.
 
 ---
 
@@ -66,7 +66,7 @@ Had better
 
 Bu Yao
 
-- I don't need Bath tab. 
+- I don't need Bath tab.
 - I don't need Elevator.
 
 etc, etc.

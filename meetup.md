@@ -101,6 +101,12 @@ He lectured to how to make a paper plane.
 - [Good in a room](http://goodinaroom.com/)
 
 ---
+### DESIGN MATTERS2.1 互联网创业如何起步--【代码狂人】过招【设计创客】
+
+- http://www.huodongxing.com/event/7288245549600
+- http://www.wzaobao.com/p/ie2jpu.html
+
+---
 ### Docker meetup
 
 ##### Date, Place 2014.08.24 @VMWare Shanghai Office(杨浦区淞沪路333号创智天地)
