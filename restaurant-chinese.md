@@ -1,6 +1,6 @@
 ## Chinese / 中華
 
-Star is based on my sense. 
+Star is based on my sense.
 
 
 - [Babi mantou](http://www.babifood.com/) ★★☆
@@ -19,7 +19,7 @@ http://sh.sina.com.cn/news/b/2013-11-14/092369960.html?from=sh_xgbd
 
 - [西北牛肉面](http://shvoice.com/special_feature/29448.html) ★★
 
-★ is 2point as environment, but when we think about the price, it is very good. Taste is gentle. 
+★ is 2point as environment, but when we think about the price, it is very good. Taste is gentle.
 
 - [东北人](http://www.dianping.com/shop/501100) ★★★
 
@@ -46,7 +46,7 @@ Atmosphere is good! I can recommend.
 
 - [滴水洞](http://www.dianping.com/shop/500156)(茂名南路店) ★★★☆
 
-Good. I don't know the reason why but we can enjoy Belgian beer in here. 
+Good. I don't know the reason why but we can enjoy Belgian beer in here.
 
 - [四川香天下](http://www.dianping.com/shop/13803854) ★★★★☆
 

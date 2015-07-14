@@ -19,7 +19,7 @@ After mastering BuYao, and TingBuTong, if we know the local language we can do a
 
 - [Official page](http://www.chinesetest.cn/index.do)
 
-- Login 
+- Login
 
 - Register from 受験生ログイン (It is 日本語対応 so don't need to worry anything.)
 
@@ -40,7 +40,7 @@ After mastering BuYao, and TingBuTong, if we know the local language we can do a
 
 - In the case of HSK 2nd grade
 
-8:30 Open- 
+8:30 Open-
 
 日本人, 韓国人, 欧米人..About 10 person. Check headphone, PC.
 
@@ -67,7 +67,7 @@ Conducted by internet.
 
 证件类型/ID Type -> 护照-Passport
 
-证件号码/ID Number -> passport no. 
+证件号码/ID Number -> passport no.
 
 个人照片/Personal Photo -> Usual identification photo
 
@@ -80,7 +80,7 @@ Conducted by internet.
 
 
 
-8:30 Open- 
+8:30 Open-
 
 中国人, 日本人, 韓国人, 欧米人 too.About 50 person in per room.
 

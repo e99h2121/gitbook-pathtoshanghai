@@ -1,9 +1,9 @@
 ## Renovated area
 
-Some of the place are already too common even among tourists. 
+Some of the place are already too common even among tourists.
 
 
-- [武康庭](http://www.fergusonlane.com.cn/) 
+- [武康庭](http://www.fergusonlane.com.cn/)
 
 FERGUSON LANE and garden. About Ferguson, you can refer:
 https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University

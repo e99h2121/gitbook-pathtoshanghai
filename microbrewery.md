@@ -6,18 +6,22 @@
 
 - Boxing cat ★★★★☆
 
-There are 3 brunches. 思南公館, 复兴路 and HongQiao. 
+http://www.boxingcatbrewery.com/ <br>
+https://twitter.com/boxingcatbeer <br>
+https://www.facebook.com/boxingcatbrewery
+
+There are 3 brunches. 思南公館, 复兴路 and HongQiao.
 I can spend all my weekend in here. Also, we can go annual event Shanghai International Beer festival.
 
 http://www.shbeerfest.com/
 
 
-- Shanghai brewery ★★★☆
+- [Shanghai brewery](http://shanghaibrewery.com/) ★★★☆
 
 There are 3 brunches. 虹梅路 and near embassy of US. Recently DongFu road brunch has newly opened.
 
 
-- Dr.Beer ★★★
+- [Dr.Beer](http://www.tripadvisor.jp/Restaurant_Review-g308272-d2706338-Reviews-Dr_Beer-Shanghai.html) ★★★
 
 There is happy hour. I'm happy.
 

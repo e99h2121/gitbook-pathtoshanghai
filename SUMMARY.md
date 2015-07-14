@@ -28,6 +28,7 @@
    * [Enjoy local fashion](enjoytvvideoandmusic.md)
    * [Enjoy local food stand](enjoylocalfoodstand.md)
    * [Enjoy farmers painting](enjoyfarmerspainting.md)
+   * [Hanami in Shanghai](hanamiinshanghai.md)
 * [Yellow pages](yellowpages.md)
    * [Apps](apps.md)
 * [Afterword](afterword.md)

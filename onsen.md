@@ -1,13 +1,13 @@
 ## OnSen SPA
 
-Relax as your home. Star is based on my sense. 
+Relax as your home. Star is based on my sense.
 
 
 ### New Star SPA (天山路)
 
 ★★★
 
-- URL / 网址 
+- URL / 网址
 
 http://www.shanghainavi.com/beauty/79/
 http://www.dianping.com/shop/5580577
@@ -22,15 +22,15 @@ http://www.shnewstar.net/
 Tian Shan Lu No.1900 (Near Yan An Xi Lu Station)
 
 
-- Access 
+- Access
 
 地下鉄4号 3号钱 延安西路
 靠近 延安西路地铁站
 
 
-- 入浴料 / Price for SPA 
+- 入浴料 / Price for SPA
 
-88RMB? 
+88RMB?
 
 
 - Menu
@@ -38,14 +38,14 @@ Tian Shan Lu No.1900 (Near Yan An Xi Lu Station)
 Shower
 Bath tab
 Dry sauna / 汗蒸
-Massage 
+Massage
 Relaxation
 
 
 
 - 館内着 / Wear
 
-Highly casual style 
+Highly casual style
 
 
 - 食事処 / 餐厅 / Restaulant
@@ -68,7 +68,7 @@ Budweiser can etc..
 
 ★★☆
 
-- URL / 网址 
+- URL / 网址
 
 http://www.dianping.com/shop/1796959
 http://www.shanghainavi.com/beauty/77/
@@ -82,16 +82,16 @@ http://www.xnggroup.com/html/index.php
 Hong Mei Lu No.3337 (Near Yan An Xi Lu)
 
 
-- Access 
+- Access
 
 地下鉄10号钱 龍渓路
 靠近 龙渓路地铁站
 Near Subway No.10 Long Xi Lu Station
 
 
-- 入浴料 / Price for SPA 
+- 入浴料 / Price for SPA
 
-88RMB? 
+88RMB?
 
 
 - Menu
@@ -99,7 +99,7 @@ Near Subway No.10 Long Xi Lu Station
 Shower
 Bath tab
 Dry sauna / 汗蒸
-Massage 
+Massage
 Relaxation
 
 
@@ -141,12 +141,12 @@ http://www.dianping.com/shop/21105799
 Long Mingi Lu Lane 1300
 
 
-- Access 
+- Access
 
 地下鉄1号钱 蓮花路 / 莲花路 has bus. About 1km from the station.
 
 
-- 入浴料 / Price for SPA 
+- 入浴料 / Price for SPA
 
 88RMB
 

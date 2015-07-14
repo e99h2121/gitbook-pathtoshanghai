@@ -3,7 +3,7 @@
 Many are available in Taobao.
 Of course, you can try
 
--[上海图书館](http://www.library.sh.cn/)
+- [上海图书館](http://www.library.sh.cn/)
 
 We can register by our passport.
 
@@ -16,11 +16,11 @@ The novel based on the old Shanghai. For girls.
 
 - [It’s all Chinese to me](http://www.amazon.com/Its-All-Chinese-Me-Etiquette/dp/0804840792)
 
-You can understand and enjoy very basic knowledge about China. I'm not sure all of the information is true or not, because China especially Shanghai is radically changing day by day. 
+You can understand and enjoy very basic knowledge about China. I'm not sure all of the information is true or not, because China especially Shanghai is radically changing day by day.
 
 - [Factory Girls](http://www.amazon.com/Factory-Girls-Village-Changing-China/dp/0385520182)
 
-It was interesting document for me, and become want to know more about. 
+It was interesting document for me, and become want to know more about.
 
 - [Stateless in Shanghai](http://www.amazon.com/Stateless-Shanghai-Liliane-Willens/dp/9881815487/ref=sr_1_2?s=books&ie=UTF8&qid=1434417117&sr=1-2&keywords=Stateless+in+Shanghai)
 
