@@ -54,6 +54,11 @@ http://www.huodongxing.com/
 http://shanghai.baixing.com/
 
 
+## For developer
+
+https://gitcafe.com/
+
+
 ## For entrepreneur
 
 http://www.up.co/communities/china/shanghai/startup-weekend/events
