@@ -44,6 +44,23 @@ http://www.clover-sh.com/
 
 ### Moving
 
+E.g. The case of [Kuroneko.](http://sh.cn.ta-q-bin.com/)
+
+- They will come to your home in order to check the budget.
+- And they will give a cardboard. It costs 1500RMB by 30box.
+
+The Japanese speaking staffs are available.
+
+
+E.g. The case of DIY.
+
+- Find a volunteer from your Chinese friends.
+- Order a local car rental service.
+- Pack by yourself, and move by ourselves.
+
+
+---
+
 In my case, I moved from ZhongShan Park to the french concession area after 1 year living. HuaiHai Zhong Lu, WuKang Lu, YongKang Lu Bar street.. You can find many cozy place.
 
 To tell our requirement to landlord must be the key.

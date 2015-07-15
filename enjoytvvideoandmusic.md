@@ -31,7 +31,7 @@ Shanghai Disney Land is planned to open till the beginning of 2016.
 
 Good with younger generation.
 
-- [Nezha](http://www.amazon.com/Nezha-Conquers-Dragon-Favorite-Childrens/dp/1602209758) 
+- [Nezha](http://www.amazon.com/Nezha-Conquers-Dragon-Favorite-Childrens/dp/1602209758)
 
 - [喜羊羊](http://japanese.china.org.cn/jp/txt/2010-10/09/content_21089617.htm)
 
@@ -48,3 +48,4 @@ If you can use Chinese slang during conversation timely, it will be effective ge
 
 - [硬盘](http://zhidao.baidu.com/question/115232596.html)
 
+- [岛国](http://zhidao.baidu.com/question/495745457410893644.html)

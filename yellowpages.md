@@ -1,5 +1,7 @@
 # Yellowpage
 
+## Basic
+
 - [在上海日本国総領事館](http://www.shanghai.cn.emb-japan.go.jp/)
 
 You can register your information for safety, and can get some useful information.
@@ -9,11 +11,13 @@ You can register your information for safety, and can get some useful informatio
 - [上海森茂診療所](http://www.senmaoclinic.jp/file/exam_reserve_form.html)
 
 
-## News, Weather
+## News
 
 http://www.shanghaidaily.com/
 
 http://shanghaiist.com/
+
+## Weather
 
 http://shanghai.tianqi.com/
 
@@ -56,14 +60,19 @@ http://shanghai.baixing.com/
 
 ## For developer
 
-https://gitcafe.com/
+https://gitcafe.com
+
+http://www.oschina.net/
+
+http://tc.technode.com/en/
+
+http://www.zhihu.com/
+
 
 
 ## For entrepreneur
 
 http://www.up.co/communities/china/shanghai/startup-weekend/events
-
-http://tc.technode.com/en/
 
 http://www.hackshanghai.com/
 
@@ -74,6 +83,7 @@ http://xinchejian.com/
 http://chinaccelerator.com/
 
 http://www.entrepnr.asia/
+
 
 
 ## National Holiday
