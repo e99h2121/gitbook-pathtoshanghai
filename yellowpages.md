@@ -17,9 +17,24 @@ http://www.shanghaidaily.com/
 
 http://shanghaiist.com/
 
+http://www.bbc.com/news/world/asia
+
+BBC-Asia..
+
+
+
 ## Weather
 
 http://shanghai.tianqi.com/
+
+
+## Blog
+
+http://www.c-study.net/
+
+http://d.hatena.ne.jp/rinrinmu178/
+
+
 
 
 ## Events
@@ -35,6 +50,7 @@ http://online.thatsmags.com/city/shanghai
 http://www.shanghaiexpat.com/
 
 http://www.smartshanghai.com/
+
 
 
 ## 百度
