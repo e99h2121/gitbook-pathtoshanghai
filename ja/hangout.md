@@ -1,6 +1,6 @@
 # Hangout
 
-There are a lot of events and place or cultural activities are in Shanghai. Let's find the favorite.
+週末イベント、文化活動など。
 
 
 

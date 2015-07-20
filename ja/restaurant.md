@@ -1,8 +1,8 @@
 # Restaurant
 
-There are so much kind of cuisine are available in cosmopolitan Shanghai. To find your favorite  is fundamental for your daily life. But be careful. A Life-cycle of every restaurant are really short. Don't miss if you are real gourmet. There are already some restaurant which doesn't survive.
+あらゆるレストランが味わえる魔都上海、しかし、そのライフサイクルは短い。リスト中、すでに存続しない店もあるので注意。
 
-Love beer? [we can find several microbrewery](http://edition.cnn.com/2014/05/08/travel/asia-best-beer-bars/) too.
+青島ビールが薄すぎるなら [マイクロブルワリー](http://edition.cnn.com/2014/05/08/travel/asia-best-beer-bars/) もあります。
 
 
 

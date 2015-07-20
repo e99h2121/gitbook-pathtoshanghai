@@ -1,6 +1,6 @@
 ## Before arrival in Shanghai
 
-This is my case.
+筆者の場合
 
 - Removed decayed Wisdom tooth..
 - Sold some books, DVD, game etc, for my simple moving.

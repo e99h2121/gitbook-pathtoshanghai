@@ -1,6 +1,6 @@
 ## Bring it to Shanghai
 
-This is also my case. 
+筆者の場合
 
 You must know about the VPN and Great Firewall.
 Rememver, you cannot use twitter, facebook, gmail in many cases if you don't prepare anything.
