@@ -1,5 +1,5 @@
 
-到上海的路径 path to Shanghai
+到上海的路径 上海への道
 =======
 
 
@@ -10,13 +10,13 @@
 
 
 
-This document has written by the author started to live in Shanghai from 2013.6.3 (Mon) to share:
+この文書は2013年6月3日（月）から上海生活を開始した著者が
 
-The Enjoyable information of daily life in Shanghai as foreigner, **perfectly based on my real experience.**
+**完全に私の実経験に基づいた**上海の日常の情報を共有することを目的に記しています
 
 
-Author: Born in Tokyo.
-Moved to HuaiHai Lu after living in 中山公园 and 静安寺.
+著者：東京生まれ
+中山公园、静安寺を経て淮海路に移る
 
 
 [yamada.nobuk@gmail.com](mailto:yamada.nobuk@gmail.com) <br>
