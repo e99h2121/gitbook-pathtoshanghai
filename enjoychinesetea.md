@@ -5,7 +5,9 @@
 - [天山茶城](http://www.dabutong.com)
 
 You can find your favorite on here!
+
 http://www.shanghainavi.com/shop/216/
+
 
 - 臻茶林
 
@@ -15,6 +17,8 @@ http://www.shanghainavi.com/shop/92
 - 宋芳茶館
 
 http://www.shanghainavi.com/shop/45/
+
+Or, HangZhou is famous for 龍井（龙井）茶, so you can visit [China Tea museum](http://www.teamuseum.cn/).
 
 ---
 

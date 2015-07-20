@@ -21,6 +21,8 @@ http://www.bbc.com/news/world/asia
 
 BBC-Asia..
 
+http://japanese.cri.cn/index.htm
+
 
 
 ## Weather
@@ -34,6 +36,7 @@ http://www.c-study.net/
 
 http://d.hatena.ne.jp/rinrinmu178/
 
+http://1-1design.net/design-shanghai/
 
 
 
