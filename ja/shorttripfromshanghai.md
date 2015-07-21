@@ -49,6 +49,8 @@ Requires one day or 2 days. Accessible by high speed train.
 
 https://goo.gl/photos/vA4zJ3wK2Fqzj1kx7
 
+https://goo.gl/photos/4ky5v5aRDPFXcxxf8
+
 ### ShaoXing / 绍兴
 
 Requires one day or 2 days. Accessible by high speed train.
