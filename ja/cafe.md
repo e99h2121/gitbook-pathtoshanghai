@@ -1,30 +1,30 @@
 ## Great Cafe
 
-For your great weekend afternoon.
+週末の午後の紅茶をどうぞ.
 
 - [Garden Books](http://www.gardenbooks.cn/) (近陕西南路) ★★★★☆
 
-We can find English books that we can know about SH. There are coffee and ice cream in the cafe. I can spend all my weekend in here.
+洋書店併設のカフェ
 
 - [ZOO coffee](http://www.zoocoffee.com/main.jsp) ★★★★
 
-I heard it is came from South Korea.
+韓国から来たお洒落カフェ
 
 - [Cafe Kacao](http://www.timeoutshanghai.com/venue/Restaurants__Cafes-Cafes/15353/Caf%C3%A9-Kacao.html)(思南路) ★★★★
 
-This is also came from South Korea.
+韓国から来たお洒落カフェ
 
 - [StayReal Cafe](http://4travel.jp/overseas/area/asia/china-shanghai_shi/shanghai/restaurant/10456516/tips/10889858/) ★★★★
 
-Come from Taiwan.
+台湾から来たお洒落カフェ
 
 - [Kafelaku Coffee](http://www.timeoutshanghai.com/venue/Restaurants__Cafes-Cafes__Teahouses/6493/Kafelaku-Coffee.html) ★★★
 
-I heard it is came from Indonesia. Good price.
+インドネシアから来たらしい
 
 - [Coffee beans and Tea leaf](http://www.coffeebean.com/) ★★★
 
-From US.
+こちらはUSから
 
 - Starbacks coffee ★★☆
 
@@ -36,5 +36,5 @@ It is internet cafe for me.
 
 - [吐司大叔](http://www.dianping.com/shop/17641492) ★★★
 
-Local taste, but not pricy, and cozy.
+ローカル風だが、リーズナブルな価格で味よし
 

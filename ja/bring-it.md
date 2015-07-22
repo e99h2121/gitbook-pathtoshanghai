@@ -2,16 +2,16 @@
 
 筆者の場合
 
-You must know about the VPN and Great Firewall.
-Rememver, you cannot use twitter, facebook, gmail in many cases if you don't prepare anything.
+VPNとGreat Firewallとは何か位の知識を携えておくと良し。
+「twitter, facebookってホントに繋がらないんですね」と言われることがあるが、当然ホントです
 
 
-Read at first:
+参考:
 https://en.wikipedia.org/wiki/Great_Firewall
 
 
 
-Also, many of below are also available in Shanghai, but it must cost than Japan.
+以下は上海でも手に入るが、コスト高なもの
 
 - Credit card.
 - Note PC.

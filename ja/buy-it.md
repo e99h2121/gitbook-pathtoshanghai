@@ -1,6 +1,6 @@
 ## Buy it in Shanghai
 
-Start new life with:
+筆者が初めて買った高価なもの:
 
 - Mobile phone Nokia Lumia620 1800RMB
 - HAO NET TV 
@@ -15,7 +15,7 @@ http://www.i-jptv.com/
 - Internet plan offers 10Mbps (1500 yuan / year) or 100Mbps (3500 yuan / year)
 - Electronics products of Japan are wonderful. The great quality. "If you want to keep the quality of life in Japan", everything must be pricey in Shanghai.
 
-You can also see:
+あくまで参考:
 http://www.shsakura.com/down/manual1_2012.pdf
 
 

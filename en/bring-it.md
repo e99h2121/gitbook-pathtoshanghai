@@ -3,7 +3,7 @@
 This is also my case. 
 
 You must know about the VPN and Great Firewall.
-Rememver, you cannot use twitter, facebook, gmail in many cases if you don't prepare anything.
+Remember, you cannot use twitter, facebook, gmail in many cases if you don't prepare anything.
 
 
 Read at first:

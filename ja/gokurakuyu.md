@@ -86,13 +86,14 @@ From 13号線 祁连山南路駅 about 5mins 祁连山南路を南方向へ直�
 
 
 - Menu
-Shower
-Hot Springs
-Dry sauna / 汗蒸
-Bedrock bath / 岩盘浴
-Massage
-Relaxation treatment
-Manga (Japanese / Chinese)
+シャワー / 洗浴
+温泉, 
+乾式サウナ / 汗蒸
+岩盤浴 / 岩盘浴
+マッサージ / 按摩
+寛ぎ処
+漫画 (日文/中文)
+
 
 
 - 館内着 / Wear
@@ -110,4 +111,15 @@ Japanese, Beer
 - メモ / 备忘录 / Memo
 
 http://www.gokurakuyu.ne.jp/
+
+日本で「店舗数日本一の風呂屋」を名乗るスーパー銭湯、極楽湯、浦西待望の上海2号店<br>
+http://www.gokurakuyu.ne.jp/<br>
+浦東同様スタッフに日本人が居るので没问题<br>
+注意書きは中国語・日本語・英語の3ヶ国語表記
+
+浦東店にある寛ぎ処は中国のTVが視聴可能だったが、こちらはごろ寝の椅子だけ<br>
+その代わり畳敷きのくつろぎ処がありマンガを読みながら過ごせるのが最高
+
+2015.3.1 朝9:30に出かけて行列が30人位<br>
+10時までに100人超になったと思われる　大人気なので行列を覚悟して行くが良し
 
