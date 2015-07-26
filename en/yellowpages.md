@@ -69,6 +69,11 @@ http://247tickets.cn/
 http://www.baidu.com/
 
 
+## 微博
+
+http://www.weibo.com/
+
+
 ## Classified
 
 http://sha.mixb.net/
