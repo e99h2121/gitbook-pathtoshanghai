@@ -9,6 +9,9 @@ Remember, you cannot use twitter, facebook, gmail in many cases if you don't pre
 Read at first:
 https://en.wikipedia.org/wiki/Great_Firewall
 
+How to avoid the Great Firewall:
+http://matome.naver.jp/odai/2138191062800721301
+
 
 
 Also, many of below are also available in Shanghai, but it must cost than Japan.

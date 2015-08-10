@@ -9,6 +9,9 @@ VPNとGreat Firewallとは何か位の知識を携えておくと良し。
 参考:
 https://en.wikipedia.org/wiki/Great_Firewall
 
+インターネット規制回避:
+http://matome.naver.jp/odai/2138191062800721301
+
 
 
 以下は上海でも手に入るが、コスト高なもの
