@@ -13,10 +13,11 @@ You can buy ticket on :
 
 - [铁路客户服务中心](http://www.12306.cn/mormhweb/)
 
+- [春秋航空](www.ch.com)
 
 
 ---
-The picture below are composed by Google photo, so you need VPN if you are in China. XieXie.
+以下写真はGoogle photoを利用しているためVPNが必要です
 
 
 ### QiBao / 七宝
