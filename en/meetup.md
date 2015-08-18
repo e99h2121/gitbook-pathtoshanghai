@@ -107,6 +107,11 @@ He lectured to how to make a paper plane.
 - http://www.wzaobao.com/p/ie2jpu.html
 
 ---
+### Apache Spark meetup
+
+- http://www.meetup.com/Shanghai-Apache-Spark-Meetup/files/
+
+---
 ### Docker meetup
 
 ##### Date, Place 2014.08.24 @VMWare Shanghai Office(杨浦区淞沪路333号创智天地)
