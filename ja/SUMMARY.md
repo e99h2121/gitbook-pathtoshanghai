@@ -20,6 +20,7 @@
    * [Renovated Area](renovatedinshanghai.md)
    * [Onsen](onsen.md)
        * [Gokurakuyu](gokurakuyu.md)
+       * [Hair salon](hairsalon.md)
        * [Massage](massage.md)
    * [Online shopping](onlineshopping.md)
    * [Meetup](meetup.md)
