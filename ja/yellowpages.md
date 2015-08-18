@@ -1,17 +1,17 @@
 # Yellowpage
 
-## Basic
+## 基本情報
 
 - [在上海日本国総領事館](http://www.shanghai.cn.emb-japan.go.jp/)
 
-You can register your information for safety, and can get some useful information.
+在外登録などはここから
 
 - [上海グリーンクリニック](http://www.greenclinic.com.cn/)
 
 - [上海森茂診療所](http://www.senmaoclinic.jp/file/exam_reserve_form.html)
 
 
-## News
+## ニュース
 
 http://www.shanghaidaily.com/
 
@@ -25,12 +25,14 @@ http://japanese.cri.cn/index.htm
 
 
 
-## Weather
+## 天気
 
 http://shanghai.tianqi.com/
 
 
-## Blog
+## 現地の方のブログ
+
+http://choro.asia/
 
 http://www.c-study.net/
 
@@ -42,7 +44,7 @@ http://www.maya-fwe.com/4/000233_J.html
 
 
 
-## Events
+## 生活・イベント情報
 
 http://shvoice.com/
 
@@ -58,7 +60,7 @@ http://www.smartshanghai.com/
 
 
 
-## Ticket
+## チケット
 
 http://www.damai.cn/
 
@@ -76,7 +78,7 @@ http://www.baidu.com/
 http://www.weibo.com/
 
 
-## Classified
+## クラシファイド
 
 http://sha.mixb.net/
 
@@ -92,7 +94,7 @@ http://www.huodongxing.com/
 http://shanghai.baixing.com/
 
 
-## For developer
+## 開発者向け
 
 https://gitcafe.com
 
@@ -104,7 +106,7 @@ http://www.zhihu.com/
 
 
 
-## For entrepreneur
+## 起業者向け
 
 http://www.up.co/communities/china/shanghai/startup-weekend/events
 
@@ -118,8 +120,10 @@ http://chinaccelerator.com/
 
 http://www.entrepnr.asia/
 
+http://people-squared.com/
 
 
-## National Holiday
+
+## 祝日
 
 http://calendar.yamanoha.com/calendar/china_calendar.html

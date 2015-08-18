@@ -1,8 +1,8 @@
 # Online shopping in China
 
-Online shopping is popular in Shanghai, China. Sometimes we can buy a lot of stuffs rather than real supermarkets. If you need, you can buy any books, and party goods. 
+ネットショッピングが生活の一部を支える上海。リアル店舗より便利なケースも多々。本でも、パーティーグッズでもこちらから
 
-## Local style
+## ローカル系
 
 - Taobao 
 
@@ -24,7 +24,7 @@ http://v5.ele.me/
 
 ---
 
-## Western style
+## 西洋系
 
 - Sherpa
 
@@ -33,7 +33,7 @@ http://www.sherpa.com.cn/
 
 ---
 
-## Japanese style
+## 日系
 
 - 出前館
 

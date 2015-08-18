@@ -32,6 +32,8 @@ http://shanghai.tianqi.com/
 
 ## Blog
 
+http://choro.asia/
+
 http://www.c-study.net/
 
 http://d.hatena.ne.jp/rinrinmu178/
@@ -117,6 +119,8 @@ http://xinchejian.com/
 http://chinaccelerator.com/
 
 http://www.entrepnr.asia/
+
+http://people-squared.com/
 
 
 
