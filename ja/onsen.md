@@ -1,4 +1,4 @@
-## OnSen SPA
+## Onsen
 
 ★は筆者の点評です
 

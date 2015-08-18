@@ -11,6 +11,8 @@ If only you get used to the local fashion, you can talk your friend more excitin
 
 ### Music
 
+- [Baidu Music](http://play.baidu.com/)
+
 - [筷子兄弟](http://japanese.china.com/fashion/star/411/20140717/104449.html)
 
 
@@ -43,6 +45,8 @@ Also, Japanese animation is popular.
 ### Slang
 
 If you can use Chinese slang during conversation timely, it will be effective gesture, maybe.
+
+- 囧 (Jiong)
 
 - [牛逼](http://www.ctrans.org/search.php?word=%E7%89%9B%E9%80%BC)
 

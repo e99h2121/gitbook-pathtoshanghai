@@ -1,4 +1,4 @@
-## OnSen SPA
+## Onsen
 
 Relax as your home. Star is based on my sense.
 
