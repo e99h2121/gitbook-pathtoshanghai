@@ -105,29 +105,6 @@ http://tc.technode.com/en/
 http://www.zhihu.com/
 
 
-
-## 起業者向け
-
-http://www.up.co/communities/china/shanghai/startup-weekend/events
-
-http://www.hackshanghai.com/
-
-http://www.techyizu.org/
-
-http://xinchejian.com/
-
-http://chinaccelerator.com/
-
-http://www.entrepnr.asia/
-
-http://people-squared.com/
-
-http://www.hackedmatter.com/
-
-https://www.techinasia.com/
-
-
-
 ## 祝日
 
 http://calendar.yamanoha.com/calendar/china_calendar.html

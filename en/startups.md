@@ -10,6 +10,32 @@ http://www.quora.com/What-are-the-hottest-startups-in-Shanghai-China
 
 - [17 Startup](http://17startup.com/)
 
+-----
+### For entrepreneur
+
+http://www.up.co/communities/china/shanghai/startup-weekend/events
+
+http://www.hackshanghai.com/
+
+http://www.techyizu.org/
+
+http://xinchejian.com/
+
+http://chinaccelerator.com/
+
+http://www.entrepnr.asia/
+
+http://people-squared.com/
+
+http://www.hackedmatter.com/
+
+https://www.techinasia.com/
+
+http://www.shanghaimakercarnival.com/
+
+http://engineer.typemag.jp/category/trend/tks
+
+
 
 Also, the URL below are the Shanghai based startup company (Aug, 2015).
 
