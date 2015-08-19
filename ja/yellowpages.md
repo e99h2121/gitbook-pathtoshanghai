@@ -126,8 +126,6 @@ http://www.hackedmatter.com/
 
 https://www.techinasia.com/
 
-http://www.quora.com/What-are-the-hottest-startups-in-Shanghai-China
-
 
 
 ## 祝日

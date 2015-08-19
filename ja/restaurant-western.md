@@ -25,4 +25,6 @@ Professional pizza.
 
 - [Da Marco](http://www.dianping.com/shop/500137) ★★★
 
+- [Bistro Burger](http://www.timeoutshanghai.com/venue/Restaurants__Cafes-Western-Hamburgers/1992/Bistro-Burger.html) ★★★★
 
+You can challenge on the [burger fighting](http://www.timeoutshanghai.com/photo/25720/5-eating-challenges-to-try-in-Shanghai.html#ad-image-0).
