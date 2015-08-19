@@ -1,5 +1,5 @@
 
-到上海的路径 path to Shanghai
+到沪路径 The Path to Shanghai
 =======
 
 
@@ -13,6 +13,17 @@
 This document has written by the author started to live in Shanghai from 2013.6.3 (Mon) to share:
 
 The Enjoyable information of daily life in Shanghai as foreigner, **perfectly based on my real experience.**
+
+There is no information about:
+
+- 外滩
+- 东方明珠
+- 豫园
+- etc
+
+Because it is the unreality. It is not my real daily life.
+
+Let's see, and enjoy our simple-hearted Shanghai.
 
 
 Author: Born in Tokyo.
