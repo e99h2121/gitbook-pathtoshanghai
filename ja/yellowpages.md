@@ -94,17 +94,6 @@ http://www.huodongxing.com/
 http://shanghai.baixing.com/
 
 
-## 開発者向け
-
-https://gitcafe.com
-
-http://www.oschina.net/
-
-http://tc.technode.com/en/
-
-http://www.zhihu.com/
-
-
 ## 祝日
 
 http://calendar.yamanoha.com/calendar/china_calendar.html

@@ -25,6 +25,7 @@
    * [Online shopping](onlineshopping.md)
    * [Meetup](meetup.md)
        * [Startups](startups.md)
+       * [IT News](itnews.md)
    * [Short trip from Shanghai](shorttripfromshanghai.md)
    * [Books about Shanghai and China](booksaboutshanghaiandchina.md)
    * [Enjoy Chinese tea](enjoychinesetea.md)
