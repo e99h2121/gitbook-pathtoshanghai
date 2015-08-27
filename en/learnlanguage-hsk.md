@@ -8,9 +8,7 @@
 
 - Register from 受験生ログイン (It is 日本語対応 so don't need to worry anything.)
 
-- Fee
-
-- Online bank
+- Fee can be paied from online bank.
 
 - Ticket can be downloaded from my page before 2 weeks of test. Login from 登录(Login).
 
