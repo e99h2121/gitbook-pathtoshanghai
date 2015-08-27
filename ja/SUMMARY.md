@@ -7,6 +7,8 @@
    * [Buy it](buy-it.md)
    * [Housing](housing.md)
    * [Learn language](learnlanguage.md)
+       * [HSK](learnlanguage-hsk.md)
+       * [TOEIC](learnlanguage-toeic.md)
    * [Learn Culture](learnculture.md)
 * [Restaurant](restaurant.md)
    * [Chinese](restaurant-chinese.md)
