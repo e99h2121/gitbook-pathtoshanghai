@@ -1,10 +1,10 @@
 # Online shopping in China
 
-Online shopping is popular in Shanghai, China. Sometimes we can buy a lot of stuffs rather than real supermarkets. If you need, you can buy any books, and party goods. 
+Online shopping is popular in Shanghai, China. Sometimes we can buy a lot of stuffs rather than real supermarkets. If you need, you can buy any books, and party goods.
 
 ## Local style
 
-- Taobao 
+- Taobao
 
 http://www.taobao.com/
 
@@ -46,4 +46,4 @@ http://www.shinsen-mart.com/
 - マルシェ
 
 http://marcheweb.com.cn/
-　
+

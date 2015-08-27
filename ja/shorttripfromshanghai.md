@@ -17,7 +17,7 @@ You can buy ticket on :
 
 
 ---
-以下写真はGoogle photoを利用しているためVPNが必要です
+以下写真はGoogle photoを利用しているため中国国内からはVPNが必要です
 
 
 ### QiBao / 七宝
@@ -58,11 +58,6 @@ Requires one day or 2 days. Accessible by high speed train.
 
 https://goo.gl/photos/WhgQCzhMNoZ8sKAq9
 
-### BeiJing / 北京
-
-Requires 2 days. Accessible by plane.
-
-https://goo.gl/photos/L1iTUQA2BdixXDmU9
 
 ### QingDao / 青岛
 
@@ -70,9 +65,25 @@ Requires 2 days. Accessible by plane.
 
 https://goo.gl/photos/y7J94Bia3sQXwS4k9
 
+https://goo.gl/photos/v2zn4qyeakwLWWyM8
+
+
+### BeiJing / 北京
+
+Requires 2 days or 3 days. Accessible by plane.
+
+https://goo.gl/photos/L1iTUQA2BdixXDmU9
+
+
 ### HaErBin / 哈尔滨
 
 Requires 2 days or 3 days. Accessible by plane.
 
 https://goo.gl/photos/P5PEe8etV2jEdvEe6
+
+
+### YunNan / 云南
+
+Requires 3 days at least. Accessible by plane and...
+
 
