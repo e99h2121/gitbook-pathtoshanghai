@@ -67,6 +67,11 @@ LuXun is famous in Japan too, but I haven't know about the story of KongYiJi. I 
 Alibaba's CEO. Amazing.
 
 
+- [三体](https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BD%93)
+
+Serialized in Science Fiction World in 2006, published as a book in 2008 and became one of the most popular science fiction novels in China. (Wikipedia)
+
+
 - [Timeout Shanghai](http://shanghai.timeoutcn.com/default.aspx)
 
 Without this magazine, I cannot spend my weekend in Shanghai.

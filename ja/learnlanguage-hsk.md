@@ -2,38 +2,47 @@
 
 ### HSK
 
-- [Official page](http://www.chinesetest.cn/index.do)
+- ログイン
 
-- Login
+受験生ログインから登録 日本語対応
 
-- Register from 受験生ログイン (It is 日本語対応 so don't need to worry anything.)
+- 受験料
 
-- Fee
+オンラインバンク対応
 
-- Online bank
+- 受験
 
-- Ticket can be downloaded from my page before 2 weeks of test. Login from 登录(Login).
+試験２週間前に、登录(Login)後の自分のページから受験票がダウンロード可能になる。受験票、パスポート現物を持参する <br>
+http://www.hskj.jp/index.html <br>
+実は日本でも受けられる <br>
 
-- With 受験票 and Passport, you can go to the venue.
+- 会場 (例)
 
-- [It is held in Japan, too. ](http://www.hskj.jp/index.html)
+上海奇迹中文培训中心（网考）<br>
+普通の中国語スクールの１教室
 
 
-- Venue
+- 時間
 
-上海奇迹中文培训中心（网考）
+以下 HSK2級の場合
 
-- In the case of HSK 2nd grade
+8:30 開場- <br>
+　日本人、韓国人、欧米の人 <br>
+　1部屋10人位 <br>
+　ヘッドホンのチェック、PCのチェック <br>
+ <br>
+9:00 開始 <br>
+　ネット試験なので自動的にスタート <br>
+ <br>
+10:00 テスト終了 <br>
+　その場で解散 <br>
 
-8:30 Open-
 
-日本人, 韓国人, 欧米人..About 10 person. Check headphone, PC.
-
-9:00 Start
-
-Conducted by internet.
-
-10:00 Complete
+- カンニングできそうなくらいゆるい
+- リスニングは意外と難しい、と実際受けてみて初めて実感する
+- でもリーディングはおそらく満点取れている
+- 【合格基準】　120点以上（200点満点）http://www.e-chinese.jp/information/kentei/kentei-hsk3.html 
+- 3級までは努力なしで受かる
 
 ---
 

@@ -66,6 +66,11 @@ http://www.thelongestway.com/books
 アリババの社長
 
 
+- [三体](https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BD%93)
+
+中国において最も人気のあるSF小説の一つとされ、2015年時点で50万組以上を売り上げている (Wikipedia)
+
+
 - [Timeout Shanghai](http://shanghai.timeoutcn.com/default.aspx)
 
 東京ウォーカーに非ず
