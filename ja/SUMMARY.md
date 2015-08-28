@@ -37,5 +37,6 @@
    * [Hanami in Shanghai](hanamiinshanghai.md)
 * [Yellow pages](yellowpages.md)
    * [Apps](apps.md)
+   * [Cloudstorage](cloudstorage.md)
 * [Afterword](afterword.md)
 
