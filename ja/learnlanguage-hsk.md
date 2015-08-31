@@ -53,3 +53,6 @@ You can also check :
 
 - http://www.talkchina.jp/hsk/
 
+- http://www.ch-station.org/wp-content/uploads/2014/04/gojun.pdf
+
+- http://ce.linedict.com/dict.html#/cnen/
