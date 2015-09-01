@@ -56,3 +56,8 @@ You can also check :
 - http://www.ch-station.org/wp-content/uploads/2014/04/gojun.pdf
 
 - http://ce.linedict.com/dict.html#/cnen/
+
+- [HSK中国語検定試験対策from上海](http://www.hsk-bct.org/)
+
+- [中国語検定.net](http://www.xn--fiqs8si0dgvroq3b.net/)
+
