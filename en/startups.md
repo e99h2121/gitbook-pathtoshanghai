@@ -50,9 +50,10 @@ http://www.shanghaimakercarnival.com/
 
 http://engineer.typemag.jp/category/trend/tks
 
+http://www.w3ctech.com/
 
 
-Also, the URL below are the Shanghai based startup company (Aug, 2015).
+Also, the URL below are the Shanghai or China based startup company (Aug, 2015).
 
 http://www.tudou.com/ <BR>
 http://shanghai.anjuke.com/ <BR>
@@ -64,5 +65,5 @@ http://ele.me/ <BR>
 http://www.zhihu.com/ <BR>
 http://www.meituan.com/ <BR>
 http://www.tradesparq.com/ <BR>
-
+https://www.teambition.com/ <BR>
 

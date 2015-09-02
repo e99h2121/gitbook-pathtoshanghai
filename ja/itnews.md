@@ -3,29 +3,33 @@
 For engineer, we can find the IT news in China.
 
 
-https://gitcafe.com/
+- [GitCafe](https://gitcafe.com/)
 
-http://www.oschina.net/
+GitCafe is operated by [D.G.Z](http://dgz.sh/) which says having a mission "to improve the Information Technology education ecosystem around the world".
 
-http://technode.com/
+We can find the [Partnership](https://gitcafe.com/partnership) page which is listing huge number of IT community, Hackathon, , Education Institute, Media or Other.
 
-http://tc.technode.com/
 
-http://www.zhihu.com/
+- [OS China](http://www.oschina.net/)
 
-http://www.csdn.net/
+- [Technode](http://technode.com/)
 
-http://segmentfault.com/
+- [Zhihu](http://www.zhihu.com/)
 
-http://www.techweb.com.cn/
+- [CSDN](http://www.csdn.net/)
 
-http://www.199it.com/
+- [SegmentFault](http://segmentfault.com/)
 
-http://www.ithome.com/
+- [Techweb](http://www.techweb.com.cn/)
 
-http://www.tuicool.com/
+- [199IT](http://www.199it.com/)
 
-http://kuailiyu.cyzone.cn/
+- [IT之家](http://www.ithome.com/)
 
-http://www.zdnet.com.cn/
+- [推酷](http://www.tuicool.com/)
+
+- [创业邦](http://kuailiyu.cyzone.cn/)
+
+- [ZDNet.cn](http://www.zdnet.com.cn/)
+
 
