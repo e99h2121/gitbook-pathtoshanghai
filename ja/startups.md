@@ -2,6 +2,8 @@
 
 Now Chinese IT startups are in the 群雄割拠.
 
+- [From Alibaba To Weibo: Your A-Z Guide To China's Hottest Internet IPOs](http://www.forbes.com/sites/briansolomon/2014/03/19/from-alibaba-to-weibo-your-a-z-guide-to-chinas-hottest-internet-ipos/)
+
 - Quora
 
 http://www.quora.com/What-are-the-hottest-startups-in-China-right-now <BR>
