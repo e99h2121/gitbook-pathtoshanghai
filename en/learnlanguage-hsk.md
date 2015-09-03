@@ -53,4 +53,4 @@ You can also check :
 
 - [中国語検定.net](http://www.xn--fiqs8si0dgvroq3b.net/)
 
-
+- [実用中国語検定](https://www.chuken.org/hsk/index.php)
