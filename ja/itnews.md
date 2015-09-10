@@ -5,9 +5,9 @@ For engineer, we can find the IT news in China.
 
 - [GitCafe](https://gitcafe.com/)
 
-GitCafe is operated by [D.G.Z](http://dgz.sh/) which says having a mission "to improve the Information Technology education ecosystem around the world".
+GitCafe は [D.G.Z](http://dgz.sh/) によって運営されている。ミッションは"to improve the Information Technology education ecosystem around the world"
 
-We can find the [Partnership](https://gitcafe.com/partnership) page which is listing huge number of IT community, Hackathon, , Education Institute, Media or Other.
+[Partnership](https://gitcafe.com/partnership) ページにはとてつもない量のIT community, Hackathon, , Education Institute, Media が見つかる
 
 
 - [OS China](http://www.oschina.net/)

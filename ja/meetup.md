@@ -1,10 +1,10 @@
 ## Meetup etc
 
-There are a lot of clubs. Also, to enjoy some sports is common in Shanghai. Basketball, Badminton, Table tennis. Some Japanese executives are enjoying to play golf around the city. In here, I introduce something like cultural activities.
+バスケットボール、バドミントン、卓球… 日系駐在員にはゴルフも人気だがここでは文化系の活動を記載
 
 
 ### TEDx Shanghai
-TEDx series event also has been held at Shanghai.
+上海で開かれているTEDxシリーズ
 
 - Head of TEDx
 
@@ -22,7 +22,7 @@ http://tedxfuxingpark.org/about/
 
 http://tedxfuxingpark.org/blog/
 
-Held at Daning Debi Creative park. Shanghai
+上海市内Daning Debi Creative parkというところで開催
 
 - TEDxShanghaiwomen
 
@@ -37,25 +37,26 @@ https://www.ted.com/tedx/events/14932
 ---
 
 ### Barcamp 2015 Spring Shanghai
-Visited Barcamp.
 
-What is Barcamp??
+Barcamp というイベントの訪問記録
+
+Barcampとは??
 
 - [Barcamp Spring 2015 ](http://www.techyizu.org/events/barcamp-spring-2015/)
 
 
-What is Techyizu??
+Techyizuとは??
 
 - [Techyizu](http://www.techyizu.org/)
 
 Technology, Entrepreneurship and Design events in Shanghai, China
 
-You can also check:
+参考:
 
 - [Techyizu Wiki](http://work.techyizu.org/index.php?title=Main_Page)
 
 
-Main events at Techyizu
+Techyizuが開催するイベント
 
 - [Barcamp - The fun unconference](http://work.techyizu.org/index.php?title=Barcamp)
 
@@ -68,18 +69,18 @@ Main events at Techyizu
 - [Hackyizu Hackathon - Build something cool](http://work.techyizu.org/index.php?title=Hackyizu)
 
 
-At the Barcamp, we could also see:
+Barcampでは以下のようなイベントも同時開催:
 
 - [DrupalCampChina 2015](http://www.meetup.com/meetup-group-FbXBPLZQ/events/220986330/)
 
 
-Venues:
+会場:
 http://shanghai.nyu.edu/
 
 - [New York University Shanghai (NYU Shanghai)](http://en.wikipedia.org/wiki/New_York_University_Shanghai) is established by New York University at 2012.
 
 
-Session I attended:
+自分が見られたもの:
 
 - [Xprize](http://www.xprize.org/)
 
@@ -88,11 +89,11 @@ Session I attended:
 
 https://twitter.com/hackshanghai
 
-It is said that China’s largest college hackathon.
+上記は中国国内最大の大学向けハッカソンらしい
 
 - [Mr. Sewerbird (Edward Miller)](http://sewerbird.github.io/)
 
-He lectured to how to make a paper plane.
+紙飛行機をどう作るか、のレクチャー
 
 - [Shanghai street food](http://annagreenspan.com/)
 
@@ -112,26 +113,32 @@ He lectured to how to make a paper plane.
 - http://www.meetup.com/Shanghai-Apache-Spark-Meetup/files/
 
 ---
+### Shanghai Big Data Streaming Meetup
+
+- http://www.meetup.com/Shanghai-Big-Data-Streaming-Meetup/events/224418388/
+
+---
 ### Docker meetup
 
 ##### Date, Place 2014.08.24 @VMWare Shanghai Office(杨浦区淞沪路333号创智天地)
 
-Docker is one kind of virtualization, container.
-You can check the previous report from here Keynotes at Docker meetup.
+Docker はご存じの通り仮想コンテナー<br>
+以下Docker meetupのレポート
 
-This meetup's topic:
+話題:
 
 1.Linux Container in Huawei; HUANG Qiang, container expert from HUA WEI, will deliver a session about linux container.
 
 2.Go 语言; XU Li, co-founder of 七牛 Qiniu Cloud Storage will deliver a session about using Golang.
 
 3.Docker in distributed storage system; Roby Chen, EMC
-A session about how they use Docker in a distributed storage system.
+
+こちらは分散ストレージシステム内でどのようにDockerを使ったか
 
 4.Docker at devo.ps; Ronan Berder, Founder & CEO at devo.ps, Founder at Wiredcraft.
 
-We can find the presenter's name on Github or linkedin etc.
-Slides or contents are available on below.
+およそのプレゼンターはGithubやlinkedinで名前を発見できる<br>
+スライドは以下で入手可能
 
 - 七牛
 - http://www.qiniu.com/
@@ -168,24 +175,23 @@ Slides or contents are available on below.
 
 ##### Date, Place 2014.04.20 @Dianping 安化路Office
 
-Here is several link that you can study at first:
+まずDockerについては以下:
 
 - https://www.docker.io/community/
 - https://github.com/dotcloud/docker
 
-And you can find several [slides](http://www.slideshare.net/search/slideshow?searchfrom=header&q=Docker).
-Particularly impressive point for me was below since we had been bothered these kind of 'hell'.
+基本的なスライド [slides](http://www.slideshare.net/search/slideshow?searchfrom=header&q=Docker) <br>
+'hell'をどう駆逐するかという話.
 
 - p.14 This eliminated the NxN problem...
 - [p.18 Docker solves the NxN problem...](http://www.slideshare.net/dotCloud/why-docker?qid=74992213-fe99-4a21-993d-421c16de4aa4&v=qf1&b=&from_search=1)
 
 
 
-By these we can eliminate vendor lock-in.
-Weak point is :
+ベンダーロックインを回避するメリットの一方、短所は：
 
 - Its Docker project itself seems still under development phase.
 - We need to try by our module. To install our service on the Docker.
 - Not only this 'Docker', we can find several kind of Environment-level containers. We should compare it.
 
-In second half of session, presenter had mentioned about qiniu([七牛](http://www.qiniu.com/)). 为移动时代开发者打造的数据平台. Create a data platform for mobile developers Times
+後半は、[七牛](http://www.qiniu.com/) の紹介。七牛とは为移动时代开发者打造的数据平台, モバイル開発者向けデータプラットフォームの例

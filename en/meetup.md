@@ -112,6 +112,11 @@ He lectured to how to make a paper plane.
 - http://www.meetup.com/Shanghai-Apache-Spark-Meetup/files/
 
 ---
+### Shanghai Big Data Streaming Meetup
+
+- http://www.meetup.com/Shanghai-Big-Data-Streaming-Meetup/events/224418388/
+
+---
 ### Docker meetup
 
 ##### Date, Place 2014.08.24 @VMWare Shanghai Office(杨浦区淞沪路333号创智天地)
