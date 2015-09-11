@@ -1,4 +1,4 @@
-# Useful Chinese Cloud storage
+# Useful Chinese Cloud storage and Cloud Service
 
 Without VPN we can use in China mainland.
 
@@ -6,6 +6,7 @@ Without VPN we can use in China mainland.
 - [Aliyun](http://www.aliyun.com/)
 
 Served by Alibaba
+
 
 - [Weiyun](http://www.weiyun.com/)
 
@@ -21,6 +22,20 @@ Up to 10TB<br>
 - [BaiduPan](http://yun.baidu.com/1t)
 
 [How to get 2tb with baidu pan disc](http://www.taigeair.com/how-to-get-2tb-with-baidu-pan-disk-for-free-for-life/)
+
+
+- [DaoCloud](http://www.daocloud.io/)
+
+- [UCloud](https://www.ucloud.cn/)
+
+- [Qiniu](http://www.qiniu.com/)
+
+- [QingCloud](https://www.qingcloud.com/)
+
+- [AWS China](https://www.amazonaws.cn/en/)
+
+- [Windows Azure China](http://www.windowsazure.cn/)
+
 
 -----
 

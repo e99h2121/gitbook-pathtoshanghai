@@ -47,5 +47,7 @@ http://swanbridgepartners.com/shenzen-valley/
 
 - [PyCon cn](http://www.pychina.org/)
 
+- [RubyCon China](http://www.rubyconfchina.org/)
+
 - [WeChat Expo](http://www.wexpo.asia/)
 
