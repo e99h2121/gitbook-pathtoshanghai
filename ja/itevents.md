@@ -45,6 +45,8 @@ http://swanbridgepartners.com/shenzen-valley/
 
 - [Hack Shanghai](http://www.hackshanghai.com/)
 
+- [JsConf](http://jsconf.cn/)
+
 - [PyCon cn](http://www.pychina.org/)
 
 - [RubyCon China](http://www.rubyconfchina.org/)
