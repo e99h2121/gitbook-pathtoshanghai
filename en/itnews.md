@@ -33,3 +33,7 @@ We can find the [Partnership](https://gitcafe.com/partnership) page which is lis
 - [ZDNet.cn](http://www.zdnet.com.cn/)
 
 - [博客园](http://www.cnblogs.com/)
+
+- [Coding](https://coding.net/)
+
+他们说，Coding不是中国的github。通过一个云端开发平台（比如 Coding），生产出来了一个软件。
