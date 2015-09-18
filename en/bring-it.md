@@ -1,6 +1,6 @@
 ## Bring it to Shanghai
 
-This is also my case. 
+This is also my case.
 
 You must know about the VPN and Great Firewall.
 Remember, you cannot use twitter, facebook, gmail in many cases if you don't prepare anything.
@@ -25,5 +25,5 @@ Also, many of below are also available in Shanghai, but it must cost than Japan.
 - Favorite coffee.
 - Favorite wine.
 - Favorite tissue paper.
-- Something useful tools in Japan such as wet tissue, etc. 
+- Something useful tools in Japan such as wet tissue, etc.
 - Plastic bag, Chopsticks, etc..

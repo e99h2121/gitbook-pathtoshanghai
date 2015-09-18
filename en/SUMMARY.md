@@ -10,6 +10,7 @@
        * [HSK](learnlanguage-hsk.md)
        * [TOEIC](learnlanguage-toeic.md)
    * [Learn Culture](learnculture.md)
+       * [Holiday](learnculture-holiday.md)
 * [Restaurant](restaurant.md)
    * [Chinese](restaurant-chinese.md)
    * [Western](restaurant-western.md)
