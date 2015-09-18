@@ -37,3 +37,5 @@ GitCafe は [D.G.Z](http://dgz.sh/) によって運営されている。ミッ�
 - [Coding](https://coding.net/)
 
 他们说，Coding不是中国的github。通过一个云端开发平台（比如 Coding），生产出来了一个软件。
+
+- [outofmemory](http://outofmemory.cn/github/Shanghai/)
