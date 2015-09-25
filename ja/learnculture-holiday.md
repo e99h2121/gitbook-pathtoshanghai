@@ -1,6 +1,6 @@
 ## Holiday, Event in China
 
-Yearly calender in China is announced from 国務院弁公庁 at the beginning of December.
+中国の祝日は例年12月初めに国務院弁公庁からアナウンスされる
 
 - [Basic information](http://www.travelchinaguide.com/essential/public-holiday.htm)
 
@@ -35,10 +35,15 @@ In the night before new year, most Chinese people will watch the Evening Party o
 
 - 五月初五 - 端午节, National holiday.
 
+This is also called as [Dragon boat festival](https://en.wikipedia.org/wiki/Duanwu_Festival). You can see a Zongzi.
+
 - 七月初七 - 七夕情人节, 七夕
+
 - 10th, Sep - 教师节, 教師の日
 
 - 八月十五 - 中秋节, National holiday.
+
+You can see many kind of [mooncake](https://en.wikipedia.org/wiki/Mooncake) in this season. 
 
 - 1st, Oct - [国庆节](https://en.wikipedia.org/wiki/National_Day_of_the_People%27s_Republic_of_China), National holiday.
 
