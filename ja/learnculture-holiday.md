@@ -1,6 +1,6 @@
 ## Holiday, Event in China
 
-Yearly calender in China is announced from 国務院弁公庁 at the beginning of December.
+中国の祝日は例年12月初めに国務院弁公庁からアナウンスされる
 
 - [Basic information](http://www.travelchinaguide.com/essential/public-holiday.htm)
 
