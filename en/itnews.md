@@ -39,3 +39,11 @@ We can find the [Partnership](https://gitcafe.com/partnership) page which is lis
 他们说，Coding不是中国的github。通过一个云端开发平台（比如 Coding），生产出来了一个软件。
 
 - [outofmemory](http://outofmemory.cn/github/Shanghai/)
+
+- [Ruby-China.org](https://ruby-china.org/)
+
+- [Cnodejs.org](https://cnodejs.org/)
+
+- [Golang China](http://golangtc.com/)
+
+- [前端江湖](http://www.qdjhu.com/)
