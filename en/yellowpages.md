@@ -10,6 +10,8 @@ You can register your information for safety, and can get some useful informatio
 
 - [上海森茂診療所](http://www.senmaoclinic.jp/file/exam_reserve_form.html)
 
+- [博愛病院国際医療センター](http://www.shhakuai.com/)
+
 
 ## News
 
@@ -43,6 +45,8 @@ http://1-1design.net/design-shanghai/
 http://www.maya-fwe.com/4/000233_J.html
 
 http://www.lifeonnanchanglu.com/
+
+http://www010.upp.so-net.ne.jp/keinaka/
 
 
 

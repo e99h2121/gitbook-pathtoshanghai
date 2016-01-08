@@ -18,6 +18,17 @@ http://www.shanghainavi.com/shop/92
 
 http://www.shanghainavi.com/shop/45/
 
+
+- 紫壶轩
+
+http://www.shanghainavi.com/shop/65/
+
+
+- 上海大宁国际茶城
+
+http://www.shanghainavi.com/shop/42/
+
+
 Or, HangZhou is famous for 龍井（龙井）茶, so you can visit [China Tea museum](http://www.teamuseum.cn/).
 
 ---
