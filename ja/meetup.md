@@ -102,6 +102,13 @@ https://twitter.com/hackshanghai
 - [Good in a room](http://goodinaroom.com/)
 
 ---
+### PechaKucha
+
+- http://pechakucha.org/
+
+東京同様、上海でもペチャクチャナイト が開かれる
+
+---
 ### DESIGN MATTERS2.1 互联网创业如何起步--【代码狂人】过招【设计创客】
 
 - http://www.huodongxing.com/event/7288245549600

@@ -101,6 +101,13 @@ He lectured to how to make a paper plane.
 - [Good in a room](http://goodinaroom.com/)
 
 ---
+### PechaKucha
+
+- http://pechakucha.org/
+
+The pechakucha night is held in Shanghai, also.
+
+---
 ### DESIGN MATTERS2.1 互联网创业如何起步--【代码狂人】过招【设计创客】
 
 - http://www.huodongxing.com/event/7288245549600
