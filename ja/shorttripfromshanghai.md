@@ -6,6 +6,8 @@
 
 - [Untour Shanghai](http://untourshanghai.com/)
 
+- [China8](http://china8.jp/)
+
 
 You can buy ticket on :
 
@@ -26,11 +28,13 @@ Requires half day. Accessible by subway.
 
 https://goo.gl/photos/eiuK9jjHm4mLTsjcA
 
+
 ### NanXian / 南翔
 
 Requires half day. Accessible by subway.
 
 https://goo.gl/photos/Gzhct3E9VgzWNsFd7
+
 
 ### ZhuJiaJiao / 朱家角
 
@@ -38,11 +42,15 @@ Requires one day. Accessible by bus.
 
 https://goo.gl/photos/vFDAG4g3Ve2D8yew8
 
+
 ### SuZhou / 苏州
 
 Requires one day. Accessible by high speed train.
 
 https://goo.gl/photos/TcsbPDLpRfxMfEk16
+
+https://goo.gl/photos/LkvshjYcunRFs4se9
+
 
 ### HangZhou / 杭州
 
@@ -51,6 +59,7 @@ Requires one day or 2 days. Accessible by high speed train.
 https://goo.gl/photos/vA4zJ3wK2Fqzj1kx7
 
 https://goo.gl/photos/4ky5v5aRDPFXcxxf8
+
 
 ### ShaoXing / 绍兴
 
