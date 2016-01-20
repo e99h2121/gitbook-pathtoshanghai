@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Great_Firewall
 How to avoid the Great Firewall:
 http://matome.naver.jp/odai/2138191062800721301
 
+https://getlantern.org/
+
+
+And you can know:
+https://en.wikipedia.org/wiki/HTTP_451
 
 
 Also, many of below are also available in Shanghai, but it must cost than Japan.
