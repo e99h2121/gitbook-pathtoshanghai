@@ -30,10 +30,7 @@
 中山公园、静安寺を経て淮海路に移る
 
 
-[yamada.nobuk@gmail.com](mailto:yamada.nobuk@gmail.com) <br>
-https://instagram.com/e99h2121 <br>
-https://twitter.com/e99h2121 <br>
-wechat: e99h2121
+http://e99h2121.github.io/
 
 
 ※日本語訳は完了していませんが、温泉情報だけは日本語で詳記してあります

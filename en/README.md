@@ -30,9 +30,6 @@ Author: Born in Tokyo.
 Moved to HuaiHai Lu after living in 中山公园 and 静安寺.
 
 
-[yamada.nobuk@gmail.com](mailto:yamada.nobuk@gmail.com) <br>
-https://instagram.com/e99h2121 <br>
-https://twitter.com/e99h2121 <br>
-wechat: e99h2121
+http://e99h2121.github.io/
 
 
