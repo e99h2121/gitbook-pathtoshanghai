@@ -48,6 +48,19 @@ http://www.lifeonnanchanglu.com/
 
 http://www010.upp.so-net.ne.jp/keinaka/
 
+http://www.chiyinsim.com/
+
+http://christophrehage.com/
+
+http://langlang.com/
+
+http://aiweiwei.com/
+
+https://fayewongtoday.wordpress.com/
+
+http://www.wantingqu.com/
+
+
 
 
 ## Events
