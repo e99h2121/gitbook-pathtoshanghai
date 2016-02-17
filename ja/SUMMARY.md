@@ -41,4 +41,5 @@
    * [Apps](apps.md)
    * [Cloudstorage](cloudstorage.md)
 * [Afterword](afterword.md)
+   * [Before departure](before-departure.md)
    * [Concluding](concludng.md)

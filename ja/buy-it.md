@@ -7,6 +7,14 @@
 
 http://www.i-jptv.com/
 
+
+ネットTVのトラブルについては以下も参照;
+[ihome](https://tv-ihome.com/blog/2015/12/12/ihome-ip900-trouble/)<br>
+[海外で日本のテレビが見られる中国の”ihome”サービス停止騒動の現象と真相とは?](http://xiaolongchakan.com/archives/%E6%B5%B7%E5%A4%96%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E4%B8%AD%E5%9B%BD%E3%81%AEihome%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9.html)<br>
+[中国在住日本人向けネットテレビ番組配信業者「ihome(日本語TV)」が規制によってサービス停止に](http://geppeivpn.asia/2015/12/02/4444.html)
+
+
+
 - Internet
 - Water
 - Transportation card

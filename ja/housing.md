@@ -26,7 +26,7 @@ There is LuXun park. Old Japanese concession area.
 
 - [PuDong new district](http://www.tripadvisor.jp/Attraction_Review-g308272-d555055-Reviews-Pudong_New_Area-Shanghai.html)
 
-Newly developed economic area. There is 东方明珠. 2015, Disney store has opened.
+Newly developed economic area. There is 東方明珠. 2015, Disney store has opened.
 
 ---
 

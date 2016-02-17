@@ -2,13 +2,13 @@
 
 This is my case.
 
-- Removed decayed Wisdom tooth..
-- Sold some books, DVD, game etc, for my simple moving.
-- Registered online bank to be checked from China.
-- Used every coupon in Japan.
-- Registered mileage club point *ANA, JAL.
+- Remove decayed Wisdom tooth..
+- Sale some books, DVD, game etc, for my simple moving.
+- Register online bank to be checked from China.
+- Use every coupon in Japan.
+- Register mileage club point *ANA, JAL.
 - Research about the average of rent in Shanghai.
-- Check about the mobile phone in Shanghai.
+- Check about the mobile phone and plan in Shanghai.
 
 　You can also see:
 
@@ -17,12 +17,12 @@ This is my case.
 
 - Change the mobile plan in Japan.
 
-- I went
+- I went:
 
 Hair salon.<br>
 Tokyo Disneyland.
 
-- I bought
+- I bought:
 
 Electronic dictionary with a Chinese 30000JPY<br>
 Electric toothbrush 1500JPY<br>

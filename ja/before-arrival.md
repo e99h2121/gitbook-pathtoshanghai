@@ -2,29 +2,32 @@
 
 筆者の場合
 
-- Removed decayed Wisdom tooth..
-- Sold some books, DVD, game etc, for my simple moving.
-- Registered online bank to be checked from China.
-- Used every coupon in Japan.
-- Registered mileage club point *ANA, JAL.
-- Research about the average of rent in Shanghai.
-- Check about the mobile phone in Shanghai.
+- 親知らずを全て抜く
+- 本、DVD、ゲーム等を中古へ
+- 中国からも口座を確認できるよう全ての銀行口座をオンラインバンク登録
+- クーポン券の類を使い切る
+- ANA、JALのマイレージクラブに申し込む
+- 上海の賃貸相場をチェック
+- 上海の携帯相場をチェック
 
-　You can also see:
+
+　以下も参照:
 
 　http://ameblo.jp/0410hnnt/entry-11687683612.html
 
 
-- Change the mobile plan in Japan.
+- 日本の携帯電話プランを適切なものに変更
 
-- I went
 
-Hair salon.<br>
-Tokyo Disneyland.
+- 行っておいた場所:
 
-- I bought
+美容室<br>
+東京ディズニーランド
 
-Electronic dictionary with a Chinese 30000JPY<br>
-Electric toothbrush 1500JPY<br>
-Lonely planet Shanghai <br>
-New trolley bag 30000JPY
+
+- 買っておいたもの:
+
+中国語付きの電子辞書 30000JPY<br>
+電動歯ブラシ 1500JPY<br>
+地球の歩き方上海 <br>
+新しいスーツケース 30000JPY
