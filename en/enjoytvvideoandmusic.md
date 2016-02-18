@@ -2,18 +2,36 @@
 
 If only you get used to the local fashion, you can talk your friend more excitingly. Of course, to catch up the latest is quite hard. Don't be late. I need challenge too.
 
-### TV, Movie
+### TV
 
 - [A Bite of China](http://english.cntv.cn/special/a_bite_of_china/homepage/index.shtml)
 
+- [春晩](https://en.wikipedia.org/wiki/CCTV_New_Year%27s_Gala)
+
+
+### Movie
+
 - [上海国際电影节](http://www.siff.com/)
+
+- [人在囧途](https://en.wikipedia.org/wiki/Lost_on_Journey)
+
+- [港囧](https://en.wikipedia.org/wiki/Lost_in_Hong_Kong)
+
+- [美人鱼](http://baike.baidu.com/subview/9514/15201085.htm)
 
 
 ### Music
 
 - [Baidu Music](http://play.baidu.com/)
 
+- [王菲](https://en.wikipedia.org/wiki/Faye_Wong)
+
+- [曲婉婷](https://en.wikipedia.org/wiki/Wanting_Qu)
+
 - [筷子兄弟](http://japanese.china.com/fashion/star/411/20140717/104449.html)
+
+- [周杰伦](https://en.wikipedia.org/wiki/Jay_Chou)
+
 
 
 ### Fashion
@@ -22,12 +40,13 @@ If only you get used to the local fashion, you can talk your friend more excitin
 
 - [Disney Store](http://www.dailymail.co.uk/news/peoplesdaily/article-3091372/World-s-largest-Disney-store-Shanghai-attracts-huge-queues.html)
 
-Shanghai Disney Land is planned to open till the beginning of 2016.
-
+- [DisneyLand](https://www.shanghaidisneyresort.com/en/)
 
 - [Duang](https://en.wikipedia.org/wiki/Duang)
 
 - [Belly button challenge](http://www.bbc.com/news/world-asia-china-33091349)
+
+
 
 ### Animation
 

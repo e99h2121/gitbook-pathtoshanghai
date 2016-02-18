@@ -46,6 +46,9 @@ http://www.thelongestway.com/books
 エッセイ
 
 
+- [只要不忘了回家的路](https://book.douban.com/subject/26632580/)
+
+
 - [Shanghai Blink](http://www.expatree.com/boutique/shanghaiblink/)
 
 

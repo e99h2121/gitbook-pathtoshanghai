@@ -14,7 +14,7 @@ We can register by our passport.
 
 The novel based on the old Shanghai. For girls.
 
-- [It’s all Chinese to me](http://www.amazon.com/Its-All-Chinese-Me-Etiquette/dp/0804840792)
+- [It's all Chinese to me](http://www.amazon.com/Its-All-Chinese-Me-Etiquette/dp/0804840792)
 
 You can understand and enjoy very basic knowledge about China. I'm not sure all of the information is true or not, because China especially Shanghai is radically changing day by day.
 
@@ -45,6 +45,9 @@ The additional edition of the same author.
 
 
 Essay.
+
+
+- [只要不忘了回家的路](https://book.douban.com/subject/26632580/)
 
 
 - [Shanghai Blink](http://www.expatree.com/boutique/shanghaiblink/)
