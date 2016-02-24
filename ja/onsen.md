@@ -2,6 +2,54 @@
 
 ★は筆者の点評です
 
+### 柏蕾SPA蕾之汤 / 蕾の湯
+
+- URL / 网址
+
+http://www.rakuto.net.cn/shop/tsubominoyu
+http://colab003.lekumo.biz/staff_blog/2015/04/post-d19a.html
+http://www.dianping.com/shop/22069329
+
+
+- Address / 地址
+
+枫林路289号柏雷潖酒店2Ｆ（×斜土路
+
+
+- Access
+
+
+
+- 入浴料 / Price for SPA
+
+138RMB
+
+
+- Menu
+
+Shower
+Bath tab
+Massage
+Relaxation
+
+
+
+- 館内着 / Wear
+
+
+
+- 食事処 / 餐厅 / Restaulant
+
+
+
+- 営業時間 / 营业时间 / Business hours
+12-0am
+
+
+- メモ / 备忘录 / Memo
+
+
+
 
 ### New Star SPA (天山路)
 
