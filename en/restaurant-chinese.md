@@ -52,6 +52,18 @@ Good. I don't know the reason why but we can enjoy Belgian beer in here.
 
 I love it. Not simple. We can imagine history.. I can recommend for someone. Better than 小肥羊.
 
+- [天辣](http://www.dianping.com/shop/11575638) ★★★★☆
+
+As the name is describing, spicy like heaven.
+
+- [全聚德](http://www.dianping.com/shop/24836498) ★★★★
+
+Beijing Dack restaulant. There must be no mistake.
+
+- [巴国布衣](http://www.dianping.com/shop/8624555) ★★★★
+
+Sichuan restaulant. We can watch 変面 performance. Taste is also good.
+
 - BiangBiangMian
 
 [三秦印象](http://www.xiaomishu.com/shop/F53D16E40393/# bd=baidu_map) is my next challenge.
