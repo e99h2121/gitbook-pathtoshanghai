@@ -21,15 +21,12 @@ There is no information about:
 - 豫园
 - etc
 
-Because it is the unreality. It is not my real daily life.
-
+To share the real life. 
 Let's see, and enjoy our simple-hearted Shanghai.
 
 
 Author: Born in Tokyo.
 Moved to HuaiHai Lu after living in 中山公园 and 静安寺.
+Moved Tokyo from 2016
 
-
-http://e99h2121.github.io/
-
-
+see: http://e99h2121.github.io/
