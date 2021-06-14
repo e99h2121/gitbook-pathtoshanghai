@@ -23,7 +23,7 @@ Author: Born in Tokyo.
 Moved to HuaiHai Lu after living in 中山公园 and 静安寺.
 Moved Tokyo from 2016
 
-see: http://e99h2121.github.io/
+see details: https://e99h2121.github.io/
 
 
 ---
@@ -32,3 +32,5 @@ see: http://e99h2121.github.io/
 
 * [English](./en/SUMMARY.md)
 * [日本語](./ja/SUMMARY.md)
+
+![image](cover.jpg)
