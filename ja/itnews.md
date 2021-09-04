@@ -1,11 +1,11 @@
 ## IT News
 
-For engineer, we can find the IT news in China.
+エンジニア向け。IT系のニュース。
 
 
 - [GitCafe](https://gitcafe.com/)
 
-GitCafe は [D.G.Z](http://dgz.sh/) によって運営されている。ミッションは"to improve the Information Technology education ecosystem around the world"
+GitCafe は [D.G.Z](http://dgz.sh/) によって運営されている。ミッションは "to improve the Information Technology education ecosystem around the world"
 
 [Partnership](https://gitcafe.com/partnership) ページにはとてつもない量のIT community, Hackathon, , Education Institute, Media が見つかる
 
