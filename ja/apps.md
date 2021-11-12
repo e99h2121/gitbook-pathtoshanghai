@@ -1,9 +1,7 @@
-# Useful Apps
-
+# 便利なアプリ
 
 
 - [Shanghai's essential apps](http://www.timeoutshanghai.com/features/Around_Town-Around_Town/23226/Shanghais-essential-apps.html)
-
 
 - Baidu Map
 

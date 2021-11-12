@@ -1,4 +1,4 @@
-## Before arrival in Shanghai
+## 上海に向かう前に
 
 筆者の場合
 
@@ -11,9 +11,9 @@
 - 上海の携帯相場をチェック
 
 
-　以下も参照:
+以下も参照:
 
-　http://ameblo.jp/0410hnnt/entry-11687683612.html
+http://ameblo.jp/0410hnnt/entry-11687683612.html
 
 
 - 日本の携帯電話プランを適切なものに変更
